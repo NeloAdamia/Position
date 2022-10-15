@@ -58,6 +58,7 @@ z-index: 2;
 .section1
 {
     margin-top: 70px;
+    width: 1160px;
     display: block;
 }
 
@@ -132,7 +133,7 @@ font-size: 15px;
 .section2
 {
     width: 1160px;
-    margin: 0 auto;
+    margin-left: 30px;
 }
 .title{
     margin-top: 50px;
@@ -153,4 +154,14 @@ font-size: 15px;
     top:100px;
     left:100px;
 
+}
+.block2
+{
+    display: inline-block;
+    width: 360px;
+    vertical-align:top;
+}
+.images2b
+{
+    padding:0 0 40px 0;
 }
